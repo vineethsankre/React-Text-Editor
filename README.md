@@ -100,5 +100,3 @@ The app must have the following functionalities
 - [https://assets.ccbp.in/frontend/react-js/text-editor-img.png](https://assets.ccbp.in/frontend/react-js/text-editor-img.png) alt should be **text editor**
 
 </details>
-
-<br/>

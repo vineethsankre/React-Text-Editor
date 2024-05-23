@@ -121,6 +121,4 @@ The app must have the following functionalities
 <details>
 <summary>Font-families</summary>
 
-- Roboto
-
 </details>

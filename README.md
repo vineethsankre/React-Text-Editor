@@ -119,6 +119,5 @@ The app must have the following functionalities
 
 <br/>
 <details>
-<summary>Font-families</summary>
 
 </details>

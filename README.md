@@ -102,11 +102,3 @@ The app must have the following functionalities
 </details>
 
 <br/>
-
-<details>
-<summary>Colors</summary>
-
-<br/>
-</details>
-
-<br/>

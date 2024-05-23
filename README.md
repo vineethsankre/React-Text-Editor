@@ -112,7 +112,6 @@ The app must have the following functionalities
 <div style="background-color: #1b1c22; width: 150px; padding: 10px; color: white">Hex: #1b1c22</div>
 <div style="background-color: #f8fafc; width: 150px; padding: 10px; color: black">Hex: #f8fafc</div>
 <div style="background-color: #334155; width: 150px; padding: 10px; color: white">Hex: #334155</div>
-<div style="background-color: #f1f5f9; width: 150px; padding: 10px; color: black">Hex: #f1f5f9</div>
 </details>
 
 <br/>

@@ -107,8 +107,6 @@ The app must have the following functionalities
 <summary>Colors</summary>
 
 <br/>
-
-<div style="background-color: #25262c; width: 150px; padding: 10px; color: white">Hex: #25262c</div>
 </details>
 
 <br/>

@@ -64,32 +64,6 @@ The app must have the following functionalities
 
   </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- `VscBold`, `GoItalic` and `AiOutlineUnderline` icons from react-icons should be used for `bold`, `italic` and `underline` buttons respectively
-- Wrap the `VscBold` component with an HTML button element and add the `data-testid` attribute value as `bold`
-- Wrap the `GoItalic` component with an HTML button element and add the `data-testid` attribute value as `italic`
-- Wrap the `AiOutlineUnderline` component with an HTML button element and add the `data-testid` attribute value as `underline`
-
-**Example:**
-
-```jsx
-<Button data-testid="bold">
-  <VscBold size={25} />
-</Button>
-```
-
-- Use `styled-components` for styling elements
-
-</details>
-
 ### Resources
 
 <details>

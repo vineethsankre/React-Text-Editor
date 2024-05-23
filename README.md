@@ -118,6 +118,3 @@ The app must have the following functionalities
 </details>
 
 <br/>
-<details>
-
-</details>
